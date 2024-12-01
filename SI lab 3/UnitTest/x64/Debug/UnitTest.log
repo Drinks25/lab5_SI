@@ -1,0 +1,9 @@
+﻿  UnitTest.cpp
+C:\Users\kravc\source\repos\SI lab 3\UnitTest\UnitTest.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+C:\Users\kravc\source\repos\SI lab 3\UnitTest\UnitTest.cpp(26,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest.cpp')
+  
+     Creating library C:\Users\kravc\source\repos\SI lab 3\x64\Debug\UnitTest.lib and object C:\Users\kravc\source\repos\SI lab 3\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\kravc\source\repos\SI lab 3\x64\Debug\UnitTest.dll
